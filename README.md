@@ -6,7 +6,7 @@
 
 目前仅实现了语句接口复刻
 
-`https://hitokoto.pzwboy.top`
+`https://v1.hitokoto.top`
 
 [官方参数](https://developer.hitokoto.cn/sentence/)可用
 
