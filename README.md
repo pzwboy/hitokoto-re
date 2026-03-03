@@ -17,4 +17,4 @@
 2. 本库著作权并非完全由一言网和Pzwboy持有。
 * 如您是句子的原作者，且不希望您的句子参与公共分享，请您联系我（`pzwboy@outlook.com`），我将移除相关侵权句子。
 * 如您是原创句子的作者，这意味着一言是在经过您的确认后获得了拷贝、分发、出版、商业使用等长期授予的权限。当然，如果您想要移除您曾经在官方一言提交过的句子，我依旧尊重您的著作权——移除相关句子。
-3. 本库由Pzwboy个人维护，欢迎提出[Issues](https://github.com/pzwboy/hitokoto-re/issues)投稿。
+3. 本库由Pzwboy个人维护，欢迎提出[Issues](https://github.com/pzwboy/hitokoto-re/issues/new?template=%E6%8A%95%E7%A8%BF%E6%A8%A1%E6%9D%BF.md)投稿。
