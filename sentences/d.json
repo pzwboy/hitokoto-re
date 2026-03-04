@@ -21012,5 +21012,38 @@
     "commit_from": "web",
     "created_at": "1694100391",
     "length": 42
+  },
+  {
+    "uuid": "d6f13d49-a2ca-42e7-925b-7bd70f8d5738",
+    "hitokoto": "追逐影子的人，自己就是影子。",
+    "type": "d",
+    "from": "荷马史诗",
+    "from_who": "荷马",
+    "creator": "GGapa",
+    "commit_from": "web",
+    "created_at": "1699769604",
+    "length": 14
+  },
+  {
+    "uuid": "10c8fadf-1d8b-43ac-8e2f-d9c8992419ae",
+    "hitokoto": "无事可静坐，闲情且读书。",
+    "type": "d",
+    "from": "正阳书局",
+    "from_who": null,
+    "creator": "Jian",
+    "commit_from": "web",
+    "created_at": "1699760432",
+    "length": 12
+  },
+  {
+    "uuid": "2cf24766-74de-43ad-8dbd-44a1492ddc90",
+    "hitokoto": "如果你说，年少的爱恋像风一样捉摸不定。那我愿，余生以为期，长逝入君怀。",
+    "type": "d",
+    "from": "余生为期",
+    "from_who": "闵然",
+    "creator": "陈嗣宗",
+    "commit_from": "web",
+    "created_at": "1702816939",
+    "length": 35
   }
 ]
